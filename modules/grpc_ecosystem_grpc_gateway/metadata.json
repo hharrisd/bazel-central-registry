@@ -1,7 +1,17 @@
 {
     "homepage": "https://github.com/grpc-ecosystem/grpc-gateway",
-    "maintainers": ["to_be_added"],
-    "repository": ["github:grpc-ecosystem/grpc-gateway"],
-    "versions": ["2.26.1"],
+    "maintainers": [
+        {
+            "email": "to_be added@email.com",
+            "github": "maintainer",
+            "name": "maintainer"
+        }
+    ],
+    "repository": [
+        "github:grpc-ecosystem/grpc-gateway"
+    ],
+    "versions": [
+        "2.26.1"
+    ],
     "yanked_versions": {}
 }
